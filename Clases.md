@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduccion a La Ingenieria en Software Unidad 1 y 2
+title: Introduccion a La Ingenieria en Software Unidad 
 ---
 ![_config.yml]({{ site.baseurl }}/images/5.jpg)
 
@@ -191,11 +191,10 @@ Desde un punto de vista general puede considerarse que el ciclo de vida de un so
 -Puesta en producción
 
 
-###Modelos de Procesos de Software
-
+### Modelos de Proceso de Software
 <p align="center"><img src="https://lh4.googleusercontent.com/J_pkb8fJzYGRZivaf00qUUTvpIXxhYVLYXtIC2_BMDLY2vSBm3f6pZYGBx4tsjx9Bo9Ab4C_aYzXUjrtpGvuVNY7z9DfEOtc2z-FbB6NtwrDU-sZBMdLnKWljvFebjlHTi71B1Bq"></p>
 
-###Procesos Ágiles 
+### Proceso Agiles
 
 _Definición:_ Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software: Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto. Para muchos tipos de software, el diseño y la construcción están imbricados.
 
